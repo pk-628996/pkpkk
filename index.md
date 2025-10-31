@@ -2,8 +2,8 @@
 # The 'layout: default' is actually optional here because we set it in _config.yml, 
 # but it's good practice to be explicit.
 layout: default 
-title: The Official Homepage Title
-description: This is the unique, highly-optimized description for my homepage.
+#title: The Official Homepage Title
+#description: This is the unique, highly-optimized description for my homepage.
 ---
 
 # Welcome to the Site!
