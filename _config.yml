@@ -1,11 +1,11 @@
 # _config.yml
 
 # 1. Site-Wide Variables (Used as defaults for all pages)
-title: My New SEO-Optimized Site
+title: Test
 description: |
   A brief, default description for my site's search engine listing and social shares.
-url: "https://<your-username>.github.io/<repo-name>" # IMPORTANT: Include the full URL
-author: Jane Doe
+url: "https://pk-628996.github.io/pkpkk" # IMPORTANT: Include the full URL
+author: Prince Kumar 
 
 # 2. Enable the Jekyll SEO Tag Plugin (Whitelisted by GitHub Pages)
 plugins:
