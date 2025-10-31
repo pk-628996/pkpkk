@@ -1,0 +1,21 @@
+# _config.yml
+
+# 1. Site-Wide Variables (Used as defaults for all pages)
+title: My New SEO-Optimized Site
+description: |
+  A brief, default description for my site's search engine listing and social shares.
+url: "https://<your-username>.github.io/<repo-name>" # IMPORTANT: Include the full URL
+author: Jane Doe
+
+# 2. Enable the Jekyll SEO Tag Plugin (Whitelisted by GitHub Pages)
+plugins:
+  - jekyll-seo-tag
+
+# 3. Default Layout Setting
+# This ensures that ANY file with YAML front matter will use the 'default' layout, 
+# even if you forget to specify it on a page.
+defaults:
+  - scope:
+      path: "" # Affects all files in the root and subdirectories
+    values:
+      layout: "default"
